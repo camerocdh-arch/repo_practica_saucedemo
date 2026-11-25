@@ -1,0 +1,24 @@
+{
+  "name": "repo_practica_saucedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camerocdh-arch/repo_practica_saucedemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/camerocdh-arch/repo_practica_saucedemo/issues"
+  },
+  "homepage": "https://github.com/camerocdh-arch/repo_practica_saucedemo#readme",
+  "devDependencies": {
+    "cypress": "^16.3.0"
+  }
+}
